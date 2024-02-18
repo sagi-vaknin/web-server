@@ -34,7 +34,7 @@ It includes functionality to parse incoming requests using the HTTPRequest class
 
 ## Contact
 
-Sagi Vaknin - sagivak1@gmail.com <br>
+Sagi Vaknin - sagivak1@gmail.com<br>
 LinkedIn  - https://www.linkedin.com/in/sagi-vaknin-sv <br>
 Project Link: [https://github.com/sagi-vaknin/web-server](https://github.com/sagi-vaknin/web-server)
 
